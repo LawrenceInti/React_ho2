@@ -1,0 +1,47 @@
+h1{
+    margin-left: 550px;
+    background-color: lightyellow;
+    font-family: Segoe UI;
+}
+input{
+    border: 5px solid black;
+    border-radius: 30%;
+    background-color: lightskyblue;
+    height: 40px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: auto;
+    font-size: 31px;
+}
+label{
+    margin: auto;
+    font-size: 25px;
+    font-family:  Lucida Sans Unicode;
+}
+button{
+    border: 5px solid black;
+    border-radius: 50%;
+    background-color: lightgreen;
+    height: 100px;
+    width: 100px;
+    padding: 7px;
+    margin-left: 700px;
+    font-size: 25px;
+}
+.array{
+    background-color: black;
+    border: 2px solid whitesmoke; 
+    padding: 10px;  
+    display: flex;
+    flex-wrap: wrap;
+}
+span{
+   border: 2px solid whitesmoke;
+   background-color: lightsalmon; 
+   font-family: Segoe UI;
+   font-size: 35px;
+   margin: 32px;
+}
+
